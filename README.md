@@ -1,3 +1,5 @@
+**⚠️ This GitHub repo will retire on 31st October 2025.**
+
 # <group id="content" extype="content"><group id="paragraph-101"><trans-unit id="p101" translate="no" xml:space="preserve">
           <source>Microsoft Defender XDR を使用してサイバー脅威から防御する</source>
         </trans-unit><group id="sentence-101"><trans-unit id="101" translate="yes" xml:space="preserve">
