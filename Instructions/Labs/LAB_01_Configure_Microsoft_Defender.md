@@ -2,7 +2,15 @@
 lab:
   title: Microsoft Defender を構成する
   module: Configure the Microsoft Defender XDR environment
+  description: この演習では、Microsoft Defender XDR 環境をプロビジョニングし、Defender for Endpoint でクライアント ワークステーションをオンボードし、クライアント ワークステーションでシミュレートされた攻撃のシナリオを実行します。
+  duration: 15 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft Defender
+    - Microsoft Defender XDR
 ---
+
 あなたは Microsoft Defender XDR を実装している企業で働くセキュリティ オペレーション アナリストです。 その役割は、Microsoft Defender (XDR) を使用したサイバー脅威に対する防御において、会社の IT チームをガイドすることです。 同社の幹部は、自社の環境でアクティビティを実行する際に、すべてのガイドラインが遵守され、すべての要件が満たされるかどうかについて非常に懸念しています。
 
 # Microsoft Defender XDR 環境を構成する
@@ -15,7 +23,7 @@ lab:
 
 ## タスク 1: Microsoft Defender XDR ワークスペースの準備
 
-1. Microsoft Edge ブラウザーで、Microsoft Defender XDR ポータル (<https://security.microsoft.com>) にアクセスします。
+1. Microsoft Edge ブラウザーで、[Microsoft Defender XDR](https://security.microsoft.com) に移動します。
 1. **[Microsoft Defender]** ポータルのナビゲーション メニューで、左側の **[ホーム]** を選択します。
 
     >**注:** メニュー上部までスクロールする必要がある場合があります。
@@ -36,7 +44,7 @@ lab:
 
 1. 新しい Microsoft Edge ブラウザーを起動します。
 
-1. Microsoft Edge ブラウザーで、(<https://security.microsoft.com>) の Microsoft Defender XDR ポータルに移動します。
+1. Microsoft Edge ブラウザーで、[Microsoft Defender XDR](https://security.microsoft.com) に移動します。
 
 1. **サインイン** ダイアログ ボックスで、ラボ ホスティング プロバイダーの提供した管理者ユーザー名のテナント電子メール アカウントをコピーして貼り付け、**[次へ]** を選択します。
 

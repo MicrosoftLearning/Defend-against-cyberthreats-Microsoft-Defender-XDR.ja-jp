@@ -2,6 +2,13 @@
 lab:
   title: Microsoft Defender for Endpoint を使用して攻撃を軽減する
   module: Mitigate threats using Microsoft Defender for Endpoint
+  description: Defender for Endpoint の攻撃の軽減機能を確認するために、デバイスのオンボーディングが成功したことを確認し、そのプロセス中に発生したアラートとインシデントを調査します。
+  duration: 30 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft Defender
+    - Microsoft Defender for Endpoint
 ---
 
 # Microsoft Defender for Endpoint を使用して攻撃を軽減する
@@ -18,7 +25,7 @@ Defender for Endpoint の攻撃の軽減機能を確認するために、デバ�
 
 このタスクでは、デバイスが正常にオンボードされていることを確認し、テスト アラートを作成します。
 
-1. Microsoft Edge ブラウザーの Microsoft Defender XDR ポータルにまだアクセスしていない場合は、(<https://security.microsoft.com>) に移動して、お使いになっているテナントの管理者としてログインします。
+1. Microsoft Edge ブラウザーの Microsoft Defender XDR ポータルにまだアクセスしていない場合は、[Microsoft Defender XDR](https://security.microsoft.com) に移動して、お使いになっているテナントの管理者としてログインします。
 
 1. 左側のメニューの **[アセット]** 領域の下で **[デバイス]** を選択します。 [デバイス] ページに WIN1 が表示されるまで待ち続けます。 そうしないと、後で生成されるアラートを表示するために、このタスクを繰り返さなければならなくなる可能性があります。
 

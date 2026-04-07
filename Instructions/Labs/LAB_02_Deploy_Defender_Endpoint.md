@@ -2,6 +2,13 @@
 lab:
   title: Microsoft Defender for Endpoint のデプロイ
   module: Mitigate threats using Microsoft Defender for Endpoint'
+  description: あなたは Microsoft Defender for Endpoint を実装している企業で働いているセキュリティ運用アナリストです。 あなたの上司は、いくつかのデバイスをオンボードして、セキュリティ オペレーション (SecOps) チームの応答手順で必要な変更に関する情報を提供しようとしています。
+  duration: 20 minutes
+  level: 200
+  islab: true
+  primarytopics:
+    - Microsoft Defender
+    - Microsoft Defender for Endpoint
 ---
 
 # Microsoft Defender for Endpoint のデプロイ
@@ -16,7 +23,7 @@ lab:
 
 >**注:** 前のモジュールのタスク 1 が正常に完了していることを確認してください。
 
-この演習の所要時間は約 **15** 分です。
+この演習の所要時間は約 **20** 分です。
 
 ### タスク 1:Microsoft Defender for Endpoint の初期化
 
@@ -26,7 +33,7 @@ lab:
 
 1. Microsoft Defender XDR ポータルにまだアクセスしていない場合は、Microsoft Edge ブラウザーを起動します。
 
-1. Microsoft Edge ブラウザーで、(<https://security.microsoft.com>) の Microsoft Defender XDR ポータルに移動します。
+1. Microsoft Edge ブラウザーで、[Microsoft Defender XDR](https://security.microsoft.com) に移動します。
 
 1. **サインイン** ダイアログ ボックスで、ラボ ホスティング プロバイダーの提供した管理者ユーザー名のテナント電子メール アカウントをコピーして貼り付け、**[次へ]** を選択します。
 
